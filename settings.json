@@ -1,0 +1,11 @@
+{
+	"router": {
+		"routerIP": "192.168.0.1",
+		"user": "",
+		"password": ""
+	},
+	"hosting": {
+		"apikey": "",
+		"home_url": ""
+	}
+}
